@@ -1,0 +1,18 @@
+program correto  ;  
+int a , b , c ; 
+
+begin
+           a := 1 ; 
+           b :=  2  + 1  ;
+           read ( c ) ;  
+           write ( c , b  ) ;
+           if ( b  + 4  ) then 
+                write ( b ) ; 
+          else
+                write ( c ) ;     
+end
+end .  
+ 
+ 
+ 
+ 
